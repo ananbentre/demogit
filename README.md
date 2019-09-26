@@ -8,3 +8,5 @@ git rm --cached "ten file" : remove file
     rm --cached *.html ( remove tat ca file html)
     rm . (remove tat ca cac file)
 git status : xem trang thai
+git branch login : tao 1 nhanh moi ten la login
+git checkout login : chuyen sang nhanh login.
